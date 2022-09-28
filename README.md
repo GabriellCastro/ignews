@@ -50,8 +50,8 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 
 
-## 🎬 Demo ##
-- click on img - youtube video 
+## 🎬 Demo  - click on img -> youtube video ##
+
 [![ig.news](https://img.youtube.com/vi/2yHJ1sL2KAs/0.jpg)](https://www.youtube.com/watch?v=2yHJ1sL2KAs)
 
 
