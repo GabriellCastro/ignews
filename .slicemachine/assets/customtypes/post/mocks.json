@@ -1,0 +1,24 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "longer",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nostrud exercitation aliquip aliqua laboris magna quis anim nulla magna duis esse minim ipsum voluptate consectetur. Nisi incididunt nisi dolore irure quis cillum.",
+        "spans": []
+      }
+    ],
+    "slices": []
+  }
+}

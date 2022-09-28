@@ -1,0 +1,49 @@
+.signInButton {
+  background: var(--gray-850);
+  color: #312e38;
+  border: 0;
+  padding: 0 1.5rem;
+  height: 3rem;
+  border-radius: 3rem;
+  font-weight: 500;
+  transition: background-color 0.2s;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: var(--white);
+  font-weight: bold;
+
+  .imagegit {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    border-radius: 50%;
+  }
+
+  svg:first-child {
+    margin-right: 8px;
+  }
+
+  .closeIcon {
+    margin-left: 1rem;
+  }
+
+  transition: filter 0.2s;
+
+  &:hover {
+    filter: brightness(0.8);
+  }
+}
+
+@media (max-width: 768px) {
+  .signInButton {
+    .spanName {
+      display: none;
+    }
+    .imagegit {
+      margin-right: 0px;
+    }
+  }
+}
