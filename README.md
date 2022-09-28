@@ -51,7 +51,7 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 
 ## 🎬 Demo ##  
-![descrição da imagem](https://www.youtube.com/embed/QkqoNB_s77U){width="560" height="315"}
+[![ig.news](https://img.youtube.com/vi/<ID DO VIDEO>/0.jpg)](https://www.youtube.com/watch?v=<ID DO VIDEO>)
 
 
 
@@ -108,4 +108,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 Feito por Gabriel Castro 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugabrielcastro/)](https://www.linkedin.com/in/eugabrielcastro/)
-[![Gmail Badge](https://img.shields.io/badge/-contatodevgabriel@gmail.com-red?style=flat-square&link=mailto:contatodevgabriel@gmail.com)](mailto:nelsonsantosaraujo@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contatodevgabriel@gmail.com-red?style=flat-square&link=mailto:contatodevgabriel@gmail.com)](mailto:contatodevgabriel@gmail.com)
